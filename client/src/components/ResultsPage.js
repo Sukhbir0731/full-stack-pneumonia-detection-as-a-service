@@ -1,4 +1,3 @@
-// src/components/ResultsPage.js
 import React, { useState } from 'react';
 import { useLocation, useNavigate } from 'react-router-dom';
 import axios from 'axios';

@@ -24,7 +24,6 @@ code {
   height: 200px;
 }
 
-/*HomePage styles*/
 .header-section {
   background: linear-gradient(to right, rgba(0, 0, 0, 0.8), rgba(41, 42, 43, 0.8));
   padding: 2rem;
@@ -106,7 +105,6 @@ code {
   background: rgba(0, 0, 0, 0.8);
 }
 
-/* Add to your CSS file */
 .form-signin {
   max-width: 330px;
   padding: 1rem;
@@ -133,7 +131,6 @@ code {
   background-color: #212529;
 }
 
-/* Override Bootstrap dark theme colors if needed */
 .bg-dark {
   background-color: #212529 !important;
 }
@@ -146,7 +143,6 @@ code {
   color: #6c757d;
 }
 
-/* Add to your existing CSS */
 .card.bg-dark {
   background-color: rgba(255, 255, 255, 0.05) !important;
 }
@@ -159,8 +155,6 @@ code {
   font-weight: 500;
 }
 
-/* DoctorPage */
-/* Add or update these styles in your CSS file */
 .form-select {
   appearance: none !important;
   -webkit-appearance: none !important;
@@ -176,14 +170,11 @@ code {
   color: white;
 }
 
-/* Style for the select when opened */
 .form-select:focus {
   background-color: #212529 !important;
   border-color: #0d6efd;
   box-shadow: 0 0 0 0.25rem rgba(13, 110, 253, 0.25);
 }
-
-/* Style for dropdown arrow */
 
 .form-control {
   background-color: rgba(255, 255, 255, 0.05) !important;
@@ -216,7 +207,6 @@ code {
   background-color: rgba(255, 255, 255, 0.05) !important;
 }
 
-/* Style for file input */
 .form-control[type="file"] {
   padding: 1rem;
 }
@@ -230,7 +220,6 @@ code {
   margin-right: 1rem;
 }
 
-/* Print styles for saving results */
 @media print {
   .btn {
     display: none !important;
